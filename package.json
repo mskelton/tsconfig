@@ -1,0 +1,22 @@
+{
+  "name": "@mskelton/tsconfig",
+  "description": "Shared TypeScript config for my projects.",
+  "version": "0.0.0",
+  "author": "Mark Skelton",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mskelton/tsconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mskelton/tsconfig/issues"
+  },
+  "homepage": "https://github.com/mskelton/tsconfig#readme",
+  "license": "MIT",
+  "keywords": [
+    "TypeScript",
+    "tsconfig"
+  ],
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  }
+}
