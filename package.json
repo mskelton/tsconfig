@@ -16,6 +16,9 @@
     "TypeScript",
     "tsconfig"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "postversion": "git push && git push --tags"
   },
