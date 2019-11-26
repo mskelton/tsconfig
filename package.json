@@ -1,7 +1,7 @@
 {
   "name": "@mskelton/tsconfig",
   "description": "Shared TypeScript config for my projects.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Mark Skelton",
   "repository": {
     "type": "git",
