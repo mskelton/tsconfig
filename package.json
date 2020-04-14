@@ -1,7 +1,7 @@
 {
   "name": "@mskelton/tsconfig",
   "description": "Shared TypeScript config for my projects.",
-  "version": "1.0.2",
+  "version": "0.0.0-semantically-released",
   "author": "Mark Skelton",
   "repository": {
     "type": "git",
@@ -18,9 +18,6 @@
   ],
   "publishConfig": {
     "access": "public"
-  },
-  "scripts": {
-    "postversion": "git push && git push --tags"
   },
   "main": "tsconfig.json"
 }
