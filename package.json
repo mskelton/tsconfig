@@ -17,9 +17,6 @@
     "access": "public"
   },
   "main": "tsconfig.json",
-  "scripts": {
-    "release": "semantic-release"
-  },
   "devDependencies": {
     "semantic-release": "^18.0.1"
   }
