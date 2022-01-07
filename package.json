@@ -3,14 +3,11 @@
   "description": "Shared TypeScript config for my projects.",
   "version": "0.0.0-semantically-released",
   "author": "Mark Skelton",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mskelton/tsconfig.git"
-  },
+  "repository": "github:mskelton/tsconfig",
+  "homepage": "https://github.com/mskelton/tsconfig#readme",
   "bugs": {
     "url": "https://github.com/mskelton/tsconfig/issues"
   },
-  "homepage": "https://github.com/mskelton/tsconfig#readme",
   "license": "ISC",
   "keywords": [
     "TypeScript",
@@ -19,5 +16,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "tsconfig.json"
+  "main": "tsconfig.json",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^18.0.1"
+  }
 }
