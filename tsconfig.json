@@ -3,7 +3,9 @@
     "declaration": true,
     "declarationMap": true,
     "jsx": "react",
+    "module": "nodenext",
     "moduleResolution": "node",
+    "sourceMap": true,
     "skipLibCheck": true,
     "strict": true,
     "target": "esnext"
