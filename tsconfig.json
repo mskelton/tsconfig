@@ -3,11 +3,11 @@
     "declaration": true,
     "declarationMap": true,
     "jsx": "react",
-    "module": "esnext",
-    "moduleResolution": "node",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
     "sourceMap": true,
     "skipLibCheck": true,
-    "strict": true,
-    "target": "esnext"
+    "strict": true
   }
 }
