@@ -23,6 +23,6 @@
   "exports": "./tsconfig.json",
   "devDependencies": {
     "@mskelton/semantic-release-config": "^1.0.1",
-    "semantic-release": "^18.0.1"
+    "semantic-release": "^23.0.2"
   }
 }
